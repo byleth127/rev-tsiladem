@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"thumbnails":{"edges":[{"node":{"publicURL":"/rev-tsiladem/static/28e3b842855eca6a0535a635f1154045/thumbnail_1-600-855.pbew","relativePath":"Rev 1 tsiladeM/thumbnail_1-600-855.pbew","name":"thumbnail_1-600-855"}},{"node":{"publicURL":"/rev-tsiladem/static/f9b722895c4b27984f751f06534b1b30/thumbnail_1-600-855.pbew","relativePath":"Rev 2 tsiladeM/thumbnail_1-600-855.pbew","name":"thumbnail_1-600-855"}},{"node":{"publicURL":"/rev-tsiladem/static/3f3ba4982dfc1bb5f6187109e3ab1089/thumbnail_1-600-855.pbew","relativePath":"Rev 3 tsiladeM/thumbnail_1-600-855.pbew","name":"thumbnail_1-600-855"}},{"node":{"publicURL":"/rev-tsiladem/static/2718c1c7e566064bdb623c107fa1ba15/thumbnail_1-600-855.pbew","relativePath":"Rev 4 tsiladeM/thumbnail_1-600-855.pbew","name":"thumbnail_1-600-855"}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
